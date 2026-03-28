@@ -1,6 +1,6 @@
 {
     "name": "com.splensoft.proceduraluiimage",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Procedural UI Image",
     "description": "A plugin that creates IMGUI Image-derived procedural images (rounded corners) using Unity's built-in UI mesh generation system",
     "unity": "6000.0",
